@@ -6,6 +6,6 @@ order: 1
 share: false
 ---
 
-[TtskchTheme](https://github.com/ttskch/jekyll-ttskch-theme) is a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
+This is the Qingwei Fang's homepage.
 
-Enjoy! :smiley:
+It is under the MIT License using the [TtskchTheme](https://github.com/ttskch/jekyll-ttskch-theme) theme.
