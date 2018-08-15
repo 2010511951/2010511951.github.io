@@ -2,7 +2,7 @@
     font-size: 2em;
     padding: 0.7em 0;
     background-color: $brand-color;
-    background-imge:url('asset/img/header.png')
+    background-imge: url('/assets/img/header.png')
     border-top: 3px solid rgba(#000, .5);
     @media screen and (max-width: $mobile-width) {
         text-align: center;
