@@ -2,6 +2,7 @@
 layout:     post
 title:      "CCiC poster"
 author:     "Qingwei Fang"
+description: xxxx
 tags:
     - CCiC
     - poster
